@@ -1,1 +1,1 @@
-#EQ3. Comparison with state-of-the-art distributed-system-based graph engines
+# EQ3. Comparison with single-machine-based graph engines
