@@ -1,4 +1,4 @@
-#EQ4. Comparison with state-of-the-art distributed-system-based graph engines
+# EQ4. Comparison with state-of-the-art distributed-system-based graph engines
 
 We also compare RealGraph<sup>GPU++</sup> with four state-of-the-art distributed-system-based graph engines: `PowerGraph`[^Gon12], `GraphLab`[^Low12], `GraphX`[^Gon14], and `Giraph`[^Ave11].
 We quote their results for comparison, since it is infeasible in practice to build the distributed systems identical to them. 
