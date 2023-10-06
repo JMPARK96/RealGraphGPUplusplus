@@ -7,5 +7,5 @@ this indicates that it provides about 170%/573% on average and up to 462%/1132% 
 
 
 <p align="center">
-  <img src="https://github.com/JMPARK96/RealGraphGPUplusplus/assets/101683134/3557b04c-eaf0-4e71-8f07-05b0022e3f5d" />
+  <img src="https://github.com/JMPARK96/RealGraphGPUplusplus/assets/101683134/f619fbda-a12d-432a-b987-d50d12b29a38" />
 </p>
