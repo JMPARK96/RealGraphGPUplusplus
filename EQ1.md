@@ -5,3 +5,6 @@ We show the superiority of RealGraph<sup>GPU++</sup> (RG-GPU++) to RealGraphGPU 
 Figure 7 shows the results of measuring the IO-BW when performing PageRank in RealGraph<sup>GPU</sup> and RealGraph<sup>GPU++</sup>. We see that RealGraph<sup>GPU++</sup> provides 1.5 and 3.2 times higher IO-BW than RealGraphGPU on a single SSD and RAID-0, respectively , nearly fully utilizing the IO-BW provided by storage. This is because the block processing cycles of RealGraph<sup>GPU++</sup> are pipelined, thanks to the asynchronous processing of CPU threads (mentioned in Section
 3.2), producing more-frequent storage-to-DM IOs in storage. 
 
+<p align="center">
+<img src="https://github.com/JMPARK96/RealGraphGPUplusplus/assets/101683134/a610737f-024b-4bbd-92e5-691085b49ab9" />
+</p>
