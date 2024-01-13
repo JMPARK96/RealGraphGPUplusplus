@@ -9,6 +9,9 @@ This superiority of RealGraph<sup>GPU++</sup> shows well the power of the single
 
 In summary, we conclude RealGraph<sup>GPU++</sup> achieves significantly better performance than RealGraph<sup>GPU++</sup> as well as other existing graph engines, using much smaller computing resources in a single machine.
 
+<p align="center">
+  <img src="https://github.com/JMPARK96/RealGraphGPUplusplus/assets/101683134/d1933297-37c5-46bf-b815-7de0c148d766" />
+</p>
 
 [^Gon12]: Powergraph: Distributed graph-parallel computation on natural graphs, Joseph E Gonzalez et al, USENIX OSDI 2012
 [^Low12]: Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud, Yucheng Low et al, In VLDB Endowment, 2012
