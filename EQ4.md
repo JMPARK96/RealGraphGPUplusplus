@@ -5,7 +5,7 @@ We quote their results for comparison, since it is infeasible in practice to bui
 We ran WCC and PR with our RealGraph<sup>GPU++</sup> on R750 because the four graph engines commonly reported the performances only for those two algorithms only on the Twitter dataset. 
 Table 2 presents the performance of each graph engine and its system environment where Machine indicates the number and type of machines; for each machine, #Cores, Mem.Size, and Storage indicate the number of cores, the size of memory, and the type of storage, respectively.
 The hyphen (-) means that no result is available in the respective papers. RealGraph<sup>GPU++</sup> running on a single machine outperforms all of them by up to 10.6 times compared to `PowerGraph`, the best performer among them, running on 64 machines. 
-This superiority of {\m} shows well the power of the single-machine-based graph engine that does not suffer from the significant overhead for communications among distributed machines.
+This superiority of RealGraph<sup>GPU++</sup> shows well the power of the single-machine-based graph engine that does not suffer from the significant overhead for communications among distributed machines.
 
 In summary, we conclude RealGraph<sup>GPU++</sup> achieves significantly better performance than RealGraph<sup>GPU++</sup> as well as other existing graph engines, using much smaller computing resources in a single machine.
 
